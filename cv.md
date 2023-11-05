@@ -1,5 +1,4 @@
 # CV
-https://poposhka1990.github.io/rsschool-cv/cv
 ## Ilya Popov
 ### Frontend Developer
 ### Education:
