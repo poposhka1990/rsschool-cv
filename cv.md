@@ -1,11 +1,13 @@
 # Ilya Popov
 ## Junior Frontend Developer
+
 ***
 
 ### Contact information:
 **E-mail:** popovemail1990@gmail.com
 
 **Telegram:** https://t.me/poposhka1990
+
 ***
 
 ### Brief introduction:
@@ -14,6 +16,7 @@ I have interest in technologies and keep acquiring new skills.
 Recently I started making a web app where my company can publish all the necessary information on documents for students.
 The web app allows to computerize lots of information on the topic. 
 Moreover, it gives me the opportunity to gain necessary skills for Frontend Developer position. 
+
 ***
 
 ### Skills:
@@ -21,6 +24,7 @@ Moreover, it gives me the opportunity to gain necessary skills for Frontend Deve
 2. Basics of React
 3. Git, GitHub, npm
 4. VSCode, WebStorm
+
 ***
 
 ### Code Example:
@@ -42,11 +46,13 @@ function getNextQuestion () {
     }
 }
 ```
+
 ***
 
 ### My pet-projects:
 1. [Помощник иностранного студента](https://poposhka1990.github.io/international-student-assistant-js/)
 2. [Countries of the World](https://poposhka1990.github.io/4p22-final-project-ilya-popov/)
+
 ***
 
 ### Education and courses:
@@ -55,6 +61,7 @@ function getNextQuestion () {
   * 2021 - iOS Development Bootcamp
   * 2022 - Basics of Frontend Development course
   * 2023 - RS School "JavaScript/Front-end course. Stage 1" (in progress)
+
 ***
 
 ### Languages:
