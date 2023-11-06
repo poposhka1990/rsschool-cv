@@ -11,5 +11,6 @@
 1. HTML, CSS, JavaScript
 2. React
 3. Git, npm, WebStorm
+
 ### Pet-project:
-https://poposhka1990.github.io/international-student-assistant-js/
+[Помощник иностранного студента](https://poposhka1990.github.io/international-student-assistant-js/)
