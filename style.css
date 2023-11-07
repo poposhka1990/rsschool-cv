@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.content {
+    font-family: "Helvetica Neue", sans-serif;
+    color: darkslategray;
+    margin: 20px;
+}
