@@ -11,7 +11,7 @@
 ***
 
 ### Brief introduction:
-Over 7 years I've been helping international students with documents, such as visa and registration. 
+Over 9 years I've been helping international students with documents, such as visa and registration. 
 I have interest in technologies and keep acquiring new skills.   
 Recently I started making a web app where my company can publish all the necessary information on documents for students.
 The web app allows to computerize lots of information on the topic. 
